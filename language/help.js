@@ -1214,15 +1214,11 @@ Semoga Kamu Senang Berada Disini Serta Jangan Lupa Untuk Membaca Dan Mematuhi Ru
   // Thanks To
   exports.sthanksto= () => {
   return`  *🙏 Thanks To*
-  ✎ Dika Ardnt
-  ✎ Fatih Arridho
-  ✎ Nurutomo
-  ✎ Mhankbarbar
-  ✎ Zeeone Ofc
-  ✎ Ryuka Team
-  ✎ Deff
-  ✎ Yoga
-  ✎ Riy
+  ✎ Yahya17 Store
+  ✎ Wa : [https://wa.me/6285784715971]
+  ✎ Youtube : [https://youtube.com/channel/UCYZ3s2hcv-3uYuR-BuO6wqg]
+  ✎ Grup : [https://chat.whatsapp.com/HQ3Jb07y3cI8NQBCqZGYfH]
+  ✎ Istagram : [https://instagram.com/yahya17_ch
   `
   }
   
